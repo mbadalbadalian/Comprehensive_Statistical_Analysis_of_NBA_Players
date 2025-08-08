@@ -8,15 +8,15 @@ This project performs a comprehensive statistical analysis of NBA players from t
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)  
-- [Features](#-features)  
-- [Tech Stack](#-tech-stack)
-- [Dataset Description](#-dataset-description)
-- [Methodology](#-methodology)
-- [Results](#-results)
-- [Running the Code](#️-running-the-code)
-- [Author](#️-author)
-- [License](#-license)  
+- [Project Overview](#project-overview)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)
+- [Dataset Description](#dataset-description)
+- [Methodology](#methodology)
+- [Results](results)
+- [Running the Code](#️running-the-code)
+- [Author](#️author)
+- [License](#license)  
 
 ---
 
